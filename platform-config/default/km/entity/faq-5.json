@@ -1,0 +1,21 @@
+{
+  "$id": "faq-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "We deliver! Visit our Order Now page (link below) to place an order.",
+    "c_activeOnAnswers": true,
+    "c_primaryCTA": {
+      "label": "Search for Nearby Restaurants",
+      "link": "http://answers.turtleheadtacos.com",
+      "linkType": "URL"
+    },
+    "keywords": [
+      "delivery"
+    ],
+    "name": "Do you offer delivery?",
+    "question": "Do you offer delivery?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,90 @@
+{
+  "$id": "ce_jobRow",
+  "$schema": "https://schema.yext.com/config/km/entity-preview/v1",
+  "displayName": {
+    "default": "Job",
+    "translations": []
+  },
+  "entityType": "job",
+  "previewType": "ROW",
+  "previewSettings": {
+    "showEntityTypeName": true,
+    "showEntityTypeSymbol": true,
+    "fieldSettingsList": [
+      {
+        "fieldIdentifier": {
+          "fieldId": "name",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": true,
+          "showFieldName": false,
+          "lineHeight": 1
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "datePosted",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "entityId",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "c_benefits",
+          "propertyNames": []
+        },
+        "fieldKind": "LIST",
+        "listConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1,
+          "showListValue": true,
+          "showListCount": true
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "c_jobQualifications",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1
+        }
+      },
+      {
+        "fieldIdentifier": {
+          "fieldId": "c_jobDepartment",
+          "propertyNames": []
+        },
+        "fieldKind": "STRING",
+        "stringConfiguration": {
+          "isEmphasizedField": false,
+          "showFieldName": true,
+          "lineHeight": 1
+        }
+      }
+    ]
+  }
+}

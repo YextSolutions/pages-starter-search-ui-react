@@ -1,0 +1,17 @@
+{
+  "$id": "restaurant.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Restaurant-default",
+  "entityType": "restaurant",
+  "fields": [
+    "c_deliveryDisclaimer",
+    "c_deliveryHours",
+    "c_primaryCTA",
+    "c_promotingEvents",
+    "c_restaurantFeatures",
+    "c_restaurantPromotions",
+    "c_restaurantType",
+    "c_territory"
+  ],
+  "required": []
+}

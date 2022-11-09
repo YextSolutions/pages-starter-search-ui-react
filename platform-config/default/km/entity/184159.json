@@ -1,0 +1,15 @@
+{
+  "$id": "184159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "body": "Want to reset your password? There are two ways to do this! You will be able to reset your password via turtleheadtacos.com/signin or the mobile app. Just click \"Forgot Password?\" when signing in and confirm your identity via phone or email.",
+    "keywords": [
+      "#resetpassword"
+    ],
+    "landingPageUrl": "https://help.turtleheadtacos.com/how-to-reset-your-password-bd00f478345d",
+    "name": "How to reset your password"
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

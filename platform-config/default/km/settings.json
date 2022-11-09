@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.yext.com/config/km/settings/v1",
-  "primaryEntityType": "location",
+  "primaryEntityType": "restaurant",
   "entityTypeSettings": [
     {
       "entityType": "hotel",
@@ -8,12 +8,12 @@
     },
     {
       "entityType": "location",
-      "defaultFieldEligibilityGroup": "location.default",
       "disabled": false
     },
     {
       "entityType": "job",
-      "disabled": true
+      "defaultFieldEligibilityGroup": "job.default",
+      "disabled": false
     },
     {
       "entityType": "healthcareProfessional",
@@ -21,6 +21,7 @@
     },
     {
       "entityType": "faq",
+      "defaultFieldEligibilityGroup": "faq.default",
       "disabled": false
     },
     {
@@ -29,7 +30,13 @@
     },
     {
       "entityType": "event",
-      "disabled": true
+      "defaultFieldEligibilityGroup": "event.default",
+      "disabled": false
+    },
+    {
+      "entityType": "ce_communityStory",
+      "defaultFieldEligibilityGroup": "ce_communityStory.default",
+      "disabled": false
     },
     {
       "entityType": "hotelRoomType",
@@ -41,7 +48,8 @@
     },
     {
       "entityType": "restaurant",
-      "disabled": true
+      "defaultFieldEligibilityGroup": "restaurant.default",
+      "disabled": false
     },
     {
       "entityType": "organization",
@@ -49,26 +57,11 @@
     },
     {
       "entityType": "helpArticle",
-      "disabled": true
+      "disabled": false
     },
     {
       "entityType": "product",
       "disabled": true
-    },
-    {
-      "entityType": "ce_menu",
-      "defaultFieldEligibilityGroup": "ce_menu.default",
-      "disabled": false
-    },
-    {
-      "entityType": "ce_site",
-      "defaultFieldEligibilityGroup": "ce_site.default",
-      "disabled": false
-    },
-    {
-      "entityType": "ce_menuItem",
-      "defaultFieldEligibilityGroup": "ce_menuItem.default",
-      "disabled": false
     },
     {
       "entityType": "financialProfessional",

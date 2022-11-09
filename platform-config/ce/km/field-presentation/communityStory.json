@@ -1,0 +1,299 @@
+{
+  "$id": "ce_communityStory",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_communityStory",
+  "displayName": "Community Story",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "displayNameTranslations": [
+        {
+          "localeCode": "it",
+          "value": "Contenuti"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Innehåll"
+        },
+        {
+          "localeCode": "tr",
+          "value": "İçerik"
+        },
+        {
+          "localeCode": "fr",
+          "value": "Contenu"
+        },
+        {
+          "localeCode": "ja",
+          "value": "コンテンツ"
+        },
+        {
+          "localeCode": "cs",
+          "value": "Obsah"
+        },
+        {
+          "localeCode": "de",
+          "value": "Inhalt"
+        },
+        {
+          "localeCode": "hu",
+          "value": "Tartalom"
+        },
+        {
+          "localeCode": "fi",
+          "value": "Sisältö"
+        },
+        {
+          "localeCode": "sk",
+          "value": "Obsah"
+        },
+        {
+          "localeCode": "es",
+          "value": "Contenido"
+        },
+        {
+          "localeCode": "nl",
+          "value": "Inhoud"
+        },
+        {
+          "localeCode": "pt",
+          "value": "Conteúdo"
+        }
+      ],
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "displayNameTranslations": [
+        {
+          "localeCode": "it",
+          "value": "Informazioni essenziali"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Huvudinformation"
+        },
+        {
+          "localeCode": "tr",
+          "value": "Temel Bilgiler"
+        },
+        {
+          "localeCode": "fr",
+          "value": "Informations principales"
+        },
+        {
+          "localeCode": "ja",
+          "value": "基本情報"
+        },
+        {
+          "localeCode": "cs",
+          "value": "Klíčové informace"
+        },
+        {
+          "localeCode": "de",
+          "value": "Grundlegende Informationen"
+        },
+        {
+          "localeCode": "hu",
+          "value": "Alapadatok"
+        },
+        {
+          "localeCode": "fi",
+          "value": "Keskeiset tiedot"
+        },
+        {
+          "localeCode": "sk",
+          "value": "Základné informácie"
+        },
+        {
+          "localeCode": "es",
+          "value": "Información principal"
+        },
+        {
+          "localeCode": "nl",
+          "value": "Kerninformatie"
+        },
+        {
+          "localeCode": "pt",
+          "value": "Informação principal"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name"
+        },
+        {
+          "id": "entityId"
+        },
+        {
+          "id": "description"
+        },
+        {
+          "id": "c_goal"
+        },
+        {
+          "id": "c_theme"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "displayNameTranslations": [
+        {
+          "localeCode": "it",
+          "value": "Altro"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Annan"
+        },
+        {
+          "localeCode": "tr",
+          "value": "Diğer"
+        },
+        {
+          "localeCode": "fr",
+          "value": "Autre"
+        },
+        {
+          "localeCode": "ja",
+          "value": "その他"
+        },
+        {
+          "localeCode": "cs",
+          "value": "Jiné"
+        },
+        {
+          "localeCode": "de",
+          "value": "Sonstige"
+        },
+        {
+          "localeCode": "hu",
+          "value": "Egyéb"
+        },
+        {
+          "localeCode": "fi",
+          "value": "Muu"
+        },
+        {
+          "localeCode": "sk",
+          "value": "Iné"
+        },
+        {
+          "localeCode": "es",
+          "value": "Otro"
+        },
+        {
+          "localeCode": "nl",
+          "value": "Overig"
+        },
+        {
+          "localeCode": "pt",
+          "value": "Outro"
+        }
+      ],
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Contacts \u0026 Affiliations",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "organizerEmail"
+        },
+        {
+          "id": "c_localNonProfits"
+        }
+      ]
+    },
+    {
+      "displayName": "CTAs, Promotions \u0026 Events",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "c_primaryCTA"
+        },
+        {
+          "id": "c_promotingEvents"
+        },
+        {
+          "id": "landingPageUrl"
+        },
+        {
+          "id": "videos",
+          "visibleOnAdd": true
+        }
+      ]
+    },
+    {
+      "displayName": "Internal Use Only",
+      "displayNameTranslations": [
+        {
+          "localeCode": "it",
+          "value": "Solo per uso interno"
+        },
+        {
+          "localeCode": "sv",
+          "value": "Endast för internt bruk"
+        },
+        {
+          "localeCode": "tr",
+          "value": "Yalnızca Dahili Kullanım"
+        },
+        {
+          "localeCode": "fr",
+          "value": "Usage interne uniquement"
+        },
+        {
+          "localeCode": "ja",
+          "value": "内部使用項目"
+        },
+        {
+          "localeCode": "cs",
+          "value": "Pouze k interním účelům"
+        },
+        {
+          "localeCode": "de",
+          "value": "Nur zur internen Verwendung"
+        },
+        {
+          "localeCode": "hu",
+          "value": "Csak belső használatra"
+        },
+        {
+          "localeCode": "fi",
+          "value": "Vain sisäiseen käyttöön"
+        },
+        {
+          "localeCode": "sk",
+          "value": "Len pre interné potreby"
+        },
+        {
+          "localeCode": "es",
+          "value": "Solo para uso interno"
+        },
+        {
+          "localeCode": "nl",
+          "value": "Alleen voor intern gebruik"
+        },
+        {
+          "localeCode": "pt",
+          "value": "Apenas para utilização interna"
+        }
+      ],
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        },
+        {
+          "id": "c_territory"
+        }
+      ]
+    }
+  ]
+}

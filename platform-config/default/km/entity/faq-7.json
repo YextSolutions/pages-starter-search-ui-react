@@ -1,0 +1,22 @@
+{
+  "$id": "faq-7",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "We strive to make your application process as smooth as possible for any positions at Turtlehead Tacos - whether that\u0027s at corporate or on one of the Restaurant Teams. It will start with a quick conversation with a Recruiting manager, followed by in-person interviews where possible, otherwise video interviews. We try to keep the process quick so it should take less than 3 weeks from start to finish.",
+    "c_activeOnAnswers": true,
+    "c_primaryCTA": {
+      "label": "Apply Now",
+      "link": "http://careers.turtleheadtacos.com",
+      "linkType": "URL"
+    },
+    "keywords": [
+      "career",
+      "jobs"
+    ],
+    "name": "What is the application process like?",
+    "question": "What is the application process like?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

@@ -1,0 +1,29 @@
+{
+  "$id": "121202151",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "FAQs on Answers",
+  "filter": {
+    "entityField": [
+      {
+        "fieldId": "c_activeOnAnswers",
+        "searchBool": "TRUE"
+      }
+    ],
+    "entityType": [
+      {
+        "entityTypeId": [
+          "faq"
+        ],
+        "type": "IS"
+      }
+    ],
+    "fieldsWithData": [
+      {
+        "fieldId": [
+          "answer"
+        ],
+        "type": "ANY"
+      }
+    ]
+  }
+}

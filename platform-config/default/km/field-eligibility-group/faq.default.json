@@ -1,0 +1,11 @@
+{
+  "$id": "faq.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "FAQ-default",
+  "entityType": "faq",
+  "fields": [
+    "c_activeOnAnswers",
+    "c_primaryCTA"
+  ],
+  "required": []
+}

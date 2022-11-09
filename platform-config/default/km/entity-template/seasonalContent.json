@@ -1,0 +1,14 @@
+{
+  "$id": "seasonalContent",
+  "$schema": "https://schema.yext.com/config/km/entity-template/v2",
+  "content": {
+    "featuredMessage": {
+      "description": "Taco about the holidays with us!",
+      "url": "[[website.url]]"
+    }
+  },
+  "entityTypes": [
+    "restaurant"
+  ],
+  "name": "Seasonal Content"
+}

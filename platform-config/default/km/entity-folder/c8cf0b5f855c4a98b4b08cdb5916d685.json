@@ -1,0 +1,6 @@
+{
+  "$id": "c8cf0b5f855c4a98b4b08cdb5916d685",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Community Story",
+  "parent": "yext/root"
+}

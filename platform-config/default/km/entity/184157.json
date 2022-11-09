@@ -1,0 +1,16 @@
+{
+  "$id": "184157",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "body": "Your rewards account is the same as your delivery account. You can login at turtleheadtacos.com/signin or by downloading and logging in to the app on your mobile phone. Once logged in, click on the \"Rewards\" tab to see your latest rewards points and status. You might be eligible to redeem some free tacos on Uncle Turtle!",
+    "keywords": [
+      "#mobileapp",
+      "#rewards"
+    ],
+    "landingPageUrl": "https://help.turtleheadtacos.com/how-to-login-to-your-rewards-account-8da77f6f6ed0",
+    "name": "How to login to your rewards account"
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

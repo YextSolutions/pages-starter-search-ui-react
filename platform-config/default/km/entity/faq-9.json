@@ -1,0 +1,21 @@
+{
+  "$id": "faq-9",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answer": "The executive chef is none other than Matt Samani.",
+    "c_activeOnAnswers": true,
+    "c_primaryCTA": {
+      "label": "Learn More",
+      "link": "http://www.turtleheadtacos.com/team",
+      "linkType": "URL"
+    },
+    "keywords": [
+      "chef"
+    ],
+    "name": "Who is the executive chef at Turtlehead Tacos?",
+    "question": "Who is the executive chef at Turtlehead Tacos?"
+  },
+  "entityType": "faq",
+  "labels": []
+}

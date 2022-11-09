@@ -1,0 +1,33 @@
+{
+  "$id": "Event-6",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Austin",
+      "countryCode": "US",
+      "line1": "701 Congress Ave",
+      "postalCode": "78701",
+      "region": "TX"
+    },
+    "description": "Come join us for a night all about raising money for the Town of Austin, TX, featuring Turtlehead\u0027s famous tacos.",
+    "isTicketedEvent": true,
+    "keywords": [
+      "Charity"
+    ],
+    "landingPageUrl": "http://events.turtleheadtacos.com/event-6",
+    "name": "Taco Bout Town Gala",
+    "organizerEmail": "sally@turtleheadtacos.com",
+    "time": {
+      "end": "2022-12-28T23:00",
+      "start": "2022-12-28T19:00"
+    },
+    "timezone": "America/Chicago",
+    "venueName": "InterContinental Stephen F. Austin",
+    "websiteUrl": {
+      "url": "http://www.turtleheadtacos.com/events"
+    }
+  },
+  "entityType": "event",
+  "labels": []
+}

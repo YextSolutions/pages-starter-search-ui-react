@@ -1,0 +1,16 @@
+{
+  "$id": "5848088452694060484",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_jobDepartment": "OPERATIONS",
+    "c_salary": "57",
+    "datePosted": "2022-09-28",
+    "description": "We are one of the fastest growing companies in the US and we\u0027re opening new restaurants every week! Our Restaurant Operations team manages all of the new restaurant opening logistics, as well as managing other location operation details. The team is fast-paced and logistical wizards so we hope you are too!",
+    "employmentType": "FULL_TIME",
+    "name": "Restaurant Operations Manager"
+  },
+  "entityType": "job",
+  "folder": "yext/root",
+  "labels": []
+}

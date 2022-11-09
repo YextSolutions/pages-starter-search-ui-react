@@ -1,0 +1,33 @@
+{
+  "$id": "answersIndexing5",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "answers",
+  "fields": [
+    "address.city",
+    "address.countryCode",
+    "cityCoordinate",
+    "addressHidden",
+    "timezone",
+    "c_promotingEvents.name",
+    "uid",
+    "yextDisplayCoordinate",
+    "meta",
+    "name",
+    "displayCoordinate",
+    "savedFilters",
+    "id",
+    "geocodedCoordinate",
+    "isoRegionCode"
+  ],
+  "filter": {
+    "entityTypes": [
+      "restaurant"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

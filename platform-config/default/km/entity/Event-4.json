@@ -1,0 +1,37 @@
+{
+  "$id": "Event-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Austin",
+      "countryCode": "US",
+      "line1": "5811 Berkman Dr",
+      "postalCode": "78723",
+      "region": "TX"
+    },
+    "c_featuredGuests": [
+      "Marty Morris - Turtlehead Tacos Founder \u0026 CEO"
+    ],
+    "description": "Turtlehead Tacos is proud to promote education! Each year we host \"Taco Math\", an event which focuses on simple arithmetic using tacos. This event also includes the famous \"Count your Tacos\" competition, where kids can guess the number of tacos in a giant taco pyramid and win prizes!",
+    "isFreeEvent": true,
+    "keywords": [
+      "School"
+    ],
+    "landingPageUrl": "http://events.turtleheadtacos.com/event-4",
+    "linkedLocation": "24",
+    "name": "Taco Math",
+    "organizerEmail": "james@turtleheadtacos.com",
+    "time": {
+      "end": "2022-09-07T16:30",
+      "start": "2022-09-07T13:00"
+    },
+    "timezone": "America/Chicago",
+    "venueName": "Turtlehead Tacos",
+    "websiteUrl": {
+      "url": "http://www.turtleheadtacos.com/events"
+    }
+  },
+  "entityType": "event",
+  "labels": []
+}

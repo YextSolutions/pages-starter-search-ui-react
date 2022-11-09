@@ -1,0 +1,15 @@
+{
+  "$id": "2753515824656915257",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_jobDepartment": "MARKETING",
+    "c_salary": "15",
+    "datePosted": "2022-08-09",
+    "description": "Want to have a fast-paced and hands-on internship? Turtlehead Tacos is your place then! You will assist various members of the marketing team on their day to day duties. The team is small so you will be able to make a difference and take on various responsibilities within your first few weeks. Learn and have fun with the Turtleheads!",
+    "name": "Marketing Intern"
+  },
+  "entityType": "job",
+  "folder": "yext/root",
+  "labels": []
+}

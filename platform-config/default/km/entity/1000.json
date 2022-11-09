@@ -1,0 +1,103 @@
+{
+  "$id": "1000",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "McLean",
+      "countryCode": "US",
+      "line1": "1323 Kirby Rd",
+      "postalCode": "22101",
+      "region": "VA"
+    },
+    "addressHidden": false,
+    "attire": "CASUAL",
+    "c_primaryCTA": {
+      "label": "Click to Order",
+      "link": "http://order.turtleheadtacos.com",
+      "linkType": "URL"
+    },
+    "c_restaurantPromotions": [
+      {
+        "description": "Order two tacos and get free tots on Tuesdays.",
+        "photo": {
+          "height": 294,
+          "thumbnails": [
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/-OGscdtgL2FHqupGLj0pIDSoJqLHAtzy5ER0W48rTVI/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/-OGscdtgL2FHqupGLj0pIDSoJqLHAtzy5ER0W48rTVI/196x294.jpg",
+          "width": 196
+        },
+        "title": "Tacos \u0026 Tots Tuesdays",
+        "url": "[[landingPageUrl]]"
+      },
+      {
+        "description": "Buy one Champagne Margarita and get your second on the house. Cheers!",
+        "photo": {
+          "height": 294,
+          "thumbnails": [
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/2gHieyTIXQg0xUsExIhqBauGAcfJ0HFNm9ZOTkW-_nk/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/2gHieyTIXQg0xUsExIhqBauGAcfJ0HFNm9ZOTkW-_nk/196x294.jpg",
+          "width": 196
+        },
+        "title": "2-for-1 Champagne Margaritas",
+        "url": "[[landingPageUrl]]"
+      },
+      {
+        "description": "Having a party? Let Turtlehead Tacos help! Call today to inquire about our Fiesta Package.",
+        "photo": {
+          "height": 294,
+          "thumbnails": [
+            {
+              "height": 294,
+              "url": "http://a.mktgcdn.com/p-sandbox/Bu4qxytV6lkBVLLJd5CK39Ox9hHkR-kw9NeybAignXU/196x294.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p-sandbox/Bu4qxytV6lkBVLLJd5CK39Ox9hHkR-kw9NeybAignXU/196x294.jpg",
+          "width": 196
+        },
+        "title": "Fiesta Package",
+        "url": "[[landingPageUrl]]"
+      }
+    ],
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "featuredMessage": {
+      "description": "Order online today",
+      "url": "http://www.turtleheadtacos.com"
+    },
+    "logo": {
+      "image": {
+        "height": 150,
+        "thumbnails": [
+          {
+            "height": 150,
+            "url": "http://a.mktgcdn.com/p-sandbox/FVCnI4EXZe3nj2hzKvJLgzIbTZ4YWRmYZCMvdjlXGR0/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "http://a.mktgcdn.com/p-sandbox/FVCnI4EXZe3nj2hzKvJLgzIbTZ4YWRmYZCMvdjlXGR0/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/FVCnI4EXZe3nj2hzKvJLgzIbTZ4YWRmYZCMvdjlXGR0/150x150.png",
+        "width": 150
+      }
+    },
+    "name": "Turtlehead Tacos",
+    "priceRange": "ONE",
+    "timezone": "America/New_York"
+  },
+  "entityType": "restaurant",
+  "labels": []
+}

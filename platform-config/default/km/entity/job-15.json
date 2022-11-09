@@ -1,0 +1,59 @@
+{
+  "$id": "job-15",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/137",
+    "c_associatedFAQs": [
+      "faq-8",
+      "faq-6",
+      "faq-7"
+    ],
+    "c_benefits": [
+      "Medical and Dental insurance plans",
+      "Paid time off",
+      "Personal development and career growth opportunities",
+      "Fun social events",
+      "Lots of taco eating",
+      "Discounts on food and merchandise",
+      "Free lunch on Mondays for your families"
+    ],
+    "c_jobDepartment": "OPERATIONS",
+    "c_jobPhoto": {
+      "height": 1266,
+      "thumbnails": [
+        {
+          "height": 1266,
+          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/1900x1266.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/1900x1266.jpg",
+      "width": 1900
+    },
+    "c_jobQualifications": "* 5-7 years experience\n * Proficiency in Microsoft Office, Microsoft Excel, SQL\n * Excitement to learn",
+    "c_salary": "57",
+    "datePosted": "2020-07-25",
+    "description": "We are one of the fastest growing companies in the US and we\u0027re opening new restaurants every week! Our Restaurant Operations team manages all of the new restaurant opening logistics, as well as managing other location operation details. The team is fast-paced and logistical wizards so we hope you are too!",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": "Turtlehead Tacos",
+    "name": "Restaurant Operations Manager"
+  },
+  "entityType": "job",
+  "labels": []
+}

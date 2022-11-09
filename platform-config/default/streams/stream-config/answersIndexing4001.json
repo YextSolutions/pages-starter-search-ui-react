@@ -1,0 +1,35 @@
+{
+  "$id": "answersIndexing4001",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "answers",
+  "fields": [
+    "address.countryCode",
+    "cityCoordinate",
+    "keywords",
+    "addressHidden",
+    "employmentType",
+    "timezone",
+    "c_jobDepartment",
+    "c_salary",
+    "uid",
+    "yextDisplayCoordinate",
+    "meta",
+    "name",
+    "displayCoordinate",
+    "savedFilters",
+    "id",
+    "geocodedCoordinate",
+    "isoRegionCode"
+  ],
+  "filter": {
+    "entityTypes": [
+      "job"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

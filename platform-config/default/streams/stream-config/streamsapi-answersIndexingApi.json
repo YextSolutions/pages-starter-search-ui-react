@@ -1,0 +1,22 @@
+{
+  "$id": "streamsapi-answersIndexingApi",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "streamsapi",
+  "fields": [
+    "uid",
+    "mainPhone",
+    "meta",
+    "id"
+  ],
+  "filter": {
+    "entityTypes": [
+      "restaurant"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

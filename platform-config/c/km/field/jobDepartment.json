@@ -1,0 +1,47 @@
+{
+  "$id": "c_jobDepartment",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Job Department",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "optionType": {
+      "option": [
+        {
+          "displayName": "Marketing",
+          "textValue": "MARKETING"
+        },
+        {
+          "displayName": "Finance",
+          "textValue": "FINANCE"
+        },
+        {
+          "displayName": "Operations",
+          "textValue": "OPERATIONS"
+        },
+        {
+          "displayName": "Restaurant Team",
+          "textValue": "RESTAURANT_TEAM"
+        },
+        {
+          "displayName": "Culinary Creations",
+          "textValue": "CULINARY_CREATIONS"
+        },
+        {
+          "displayName": "Legal",
+          "textValue": "LEGAL"
+        },
+        {
+          "displayName": "HR",
+          "textValue": "HR"
+        },
+        {
+          "displayName": "Other",
+          "textValue": "OTHER"
+        }
+      ]
+    }
+  },
+  "typeId": "option"
+}

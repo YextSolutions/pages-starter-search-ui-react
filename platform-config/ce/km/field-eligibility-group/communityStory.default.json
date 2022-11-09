@@ -1,0 +1,19 @@
+{
+  "$id": "ce_communityStory.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Community Story-default",
+  "entityType": "ce_communityStory",
+  "fields": [
+    "c_goal",
+    "c_localNonProfits",
+    "c_primaryCTA",
+    "c_promotingEvents",
+    "c_territory",
+    "c_theme",
+    "description",
+    "landingPageUrl",
+    "organizerEmail",
+    "videos"
+  ],
+  "required": []
+}

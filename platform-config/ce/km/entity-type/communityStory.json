@@ -1,0 +1,7 @@
+{
+  "$id": "ce_communityStory",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
+  "description": "This is to highlight local initiatives Turtlehead Tacos is doing.",
+  "displayName": "Community Story",
+  "pluralDisplayName": "Community Stories"
+}

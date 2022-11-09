@@ -1,0 +1,22 @@
+{
+  "$id": "c_jobQualifications",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "",
+  "displayName": "Job Qualifications",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextType": {
+      "maxLength": 100000,
+      "supportedFormat": [
+        "BOLD",
+        "BULLETED_LIST",
+        "HYPERLINK",
+        "ITALICS",
+        "NUMBERED_LIST",
+        "UNDERLINE"
+      ]
+    }
+  },
+  "typeId": "richText"
+}

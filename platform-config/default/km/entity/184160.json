@@ -1,0 +1,16 @@
+{
+  "$id": "184160",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "body": "Login to the app and tap on the \"Orders\" tab at the bottom and tap on the order in process. You should see the delivery status and if your driver is en\\-route you should be able to track them as they get closer to delivering you delicious tacos.",
+    "keywords": [
+      "#mobileapp",
+      "#delivery"
+    ],
+    "landingPageUrl": "https://help.turtleheadtacos.com/how-to-check-the-status-of-your-delivery-on-the-app-ebbc73d01db7",
+    "name": "How to check the status of your delivery on the app"
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

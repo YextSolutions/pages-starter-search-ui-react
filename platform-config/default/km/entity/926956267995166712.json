@@ -1,0 +1,15 @@
+{
+  "$id": "926956267995166712",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_jobDepartment": "OPERATIONS",
+    "c_salary": "15",
+    "datePosted": "2022-08-01",
+    "employmentType": "INTERN",
+    "name": "Operations Intern"
+  },
+  "entityType": "job",
+  "folder": "yext/root",
+  "labels": []
+}

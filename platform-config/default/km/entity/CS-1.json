@@ -1,0 +1,13 @@
+{
+  "$id": "CS-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_territory": "Texas",
+    "description": "Turtlehead Tacos helped save over 1,000 turtles in and around the Dallas Area in 2017 through a series of community efforts to rehabilitate local streams. With help from local heros like Mark Cuban and Tony Romo, learn more about how Turtlehead Tacos gave back to its namesake.",
+    "name": "Save the Turtles"
+  },
+  "entityType": "ce_communityStory",
+  "folder": "c8cf0b5f855c4a98b4b08cdb5916d685",
+  "labels": []
+}

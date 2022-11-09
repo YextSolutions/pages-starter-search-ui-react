@@ -1,0 +1,15 @@
+{
+  "$id": "184158",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "body": "You must have some great friends, family or work colleagues if you have a gift card! You can redeem your gift card via in\\-person dining, online, or phone order! If ordering online, make sure to enter your gift code pin when you enter your payment information. You can also check your gift card balance at turtleheadtacos.com/giftcards .",
+    "keywords": [
+      "#giftcards"
+    ],
+    "landingPageUrl": "https://help.turtleheadtacos.com/how-to-redeem-a-gift-card-09e22826e93d",
+    "name": "How to redeem a gift card"
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}

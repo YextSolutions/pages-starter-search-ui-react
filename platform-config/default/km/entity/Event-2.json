@@ -1,0 +1,37 @@
+{
+  "$id": "Event-2",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Austin",
+      "countryCode": "US",
+      "line1": "1313 S. 1st Street",
+      "postalCode": "78704",
+      "region": "TX"
+    },
+    "c_featuredGuests": [
+      "Jennifer Garner",
+      "Matt Damon"
+    ],
+    "description": "Turtlehead Tacos has run the Tacos for Tots event since 1965 and is a proud supporter of the Tacos for Tots non-profit, providing discounted tacos across the United States. We are always excited about this event because it means our tacos are more accessible for fans around the country!",
+    "keywords": [
+      "Charity"
+    ],
+    "landingPageUrl": "http://events.turtleheadtacos.com/event-2",
+    "linkedLocation": "1",
+    "name": "Tacos for Tots",
+    "organizerEmail": "james@turtleheadtacos.com",
+    "time": {
+      "end": "2022-11-18T18:00",
+      "start": "2022-11-18T16:00"
+    },
+    "timezone": "America/Chicago",
+    "venueName": "Turtlehead Tacos",
+    "websiteUrl": {
+      "url": "http://www.turtleheadtacos.com/events"
+    }
+  },
+  "entityType": "event",
+  "labels": []
+}

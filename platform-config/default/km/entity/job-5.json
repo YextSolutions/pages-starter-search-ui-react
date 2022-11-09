@@ -1,0 +1,63 @@
+{
+  "$id": "job-5",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "applicationUrl": "https://boards.greenhouse.io/turtleheadtacos/jobs/127",
+    "c_associatedFAQs": [
+      "faq-8",
+      "faq-6",
+      "faq-7"
+    ],
+    "c_benefits": [
+      "Medical and Dental insurance plans",
+      "Paid time off",
+      "Personal development and career growth opportunities",
+      "Fun social events",
+      "Lots of taco eating",
+      "Discounts on food and merchandise",
+      "Free lunch on Mondays for your families"
+    ],
+    "c_jobDepartment": "RESTAURANT_TEAM",
+    "c_jobPhoto": {
+      "height": 1266,
+      "thumbnails": [
+        {
+          "height": 1266,
+          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/1900x1266.jpg",
+          "width": 1900
+        },
+        {
+          "height": 412,
+          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/619x412.jpg",
+          "width": 619
+        },
+        {
+          "height": 400,
+          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/600x400.jpg",
+          "width": 600
+        },
+        {
+          "height": 131,
+          "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/196x131.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/DtlAmZz2b4LVcE0jyWfPOfX8maQR0OH5FT8bOmC7GEU/1900x1266.jpg",
+      "width": 1900
+    },
+    "c_jobQualifications": "* 1-4 years experience\n * Friendly and patient with others",
+    "c_salary": "30",
+    "datePosted": "2020-04-10",
+    "description": "Organized? Friendly? Able to multi-task? Good memory? This job might be the one for you! We are seeking a Waiter to help serve our guests and bring a smile to their faces! Taco-loving is a must.",
+    "employmentType": "FULL_TIME",
+    "hiringOrganization": "Turtlehead Tacos Restaurant",
+    "jobLocation": "4",
+    "location": {
+      "existingLocation": "4"
+    },
+    "name": "Waiter"
+  },
+  "entityType": "job",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "6777374680843670255",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_jobDepartment": "HR",
+    "c_salary": "57",
+    "description": "We are one of the fastest growing companies in the US and we need your help to grow! Join our team and help us to recruit the people that will help spread the Taco-love across the globe. You will be responsible for helping to recruit key corporate roles as well as establishing best practices for recruiting for our Restaurant Team roles.",
+    "employmentType": "FULL_TIME",
+    "name": "Recruiting Manager"
+  },
+  "entityType": "job",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,16 @@
+{
+  "$id": "2134821886549000347",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_jobDepartment": "FINANCE",
+    "c_salary": "90",
+    "datePosted": "2022-01-05",
+    "description": "We are seeking a financial accountant to help us with financial planning and revenue recognition. We want someone who is experienced and a self-starter. The finance team is small, but mighty and we need your help to grow the business scalably!",
+    "employmentType": "FULL_TIME",
+    "name": "Financial Accountant"
+  },
+  "entityType": "job",
+  "folder": "yext/root",
+  "labels": []
+}

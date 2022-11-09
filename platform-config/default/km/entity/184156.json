@@ -1,0 +1,15 @@
+{
+  "$id": "184156",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "body": "While we\u0027d love to have you eat in person, you can always place an order on the site by navigating to turtleheadtacos.com/orderonline. You can place an order online during your restaurant\u0027s open hours! As a reminder, you can also download our mobile app on iOS or Android for an even faster experience. Don\u0027t forget to signin so you get those rewards points. Turtle up and happy eating!",
+    "keywords": [
+      "#onlineorder"
+    ],
+    "landingPageUrl": "https://help.turtleheadtacos.com/how-to-place-a-new-order-online-8c0cc5e656e0",
+    "name": "How to place a new order online"
+  },
+  "entityType": "helpArticle",
+  "labels": []
+}
