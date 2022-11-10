@@ -14,14 +14,7 @@ import {
   HeadlessConfig,
   SandboxEndpoints,
 } from "@yext/search-headless-react";
-import {
-  SearchBar,
-  StandardCard,
-  VerticalResults,
-  SpellCheck,
-  ResultsCount,
-  Pagination,
-} from "@yext/search-ui-react";
+import JobSearch from "../components/JobSearch";
 
 export const getPath: GetPath<TemplateProps> = () => {
   return "/search";
@@ -41,7 +34,7 @@ const headlessConfig: HeadlessConfig = {
   apiKey: "9f82d5b5eb50a85eb755a14edc9bf780",
   experienceKey: "turtlehead",
   locale: "en",
-  verticalKey: "faqs",
+  verticalKey: "jobs",
   endpoints: SandboxEndpoints,
 };
 
@@ -50,18 +43,7 @@ const searcher = provideHeadless(headlessConfig);
 const Search: Template<TemplateRenderProps> = () => {
   return (
     <SearchHeadlessProvider searcher={searcher}>
-      <div className="px-4 py-8">
-        <div className="mx-auto flex max-w-5xl flex-col">
-          <SearchBar />
-          <SpellCheck />
-          <ResultsCount />
-          <VerticalResults
-            CardComponent={StandardCard}
-            displayAllOnNoResults={false}
-          />
-        </div>
-        <Pagination />
-      </div>
+      <JobSearch />
     </SearchHeadlessProvider>
   );
 };
