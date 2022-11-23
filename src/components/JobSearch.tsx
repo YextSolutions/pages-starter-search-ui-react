@@ -8,7 +8,6 @@ import {
   VerticalResults,
   Pagination,
 } from "@yext/search-ui-react";
-import Job from "../types/jobs";
 import JobCard from "./JobCard";
 import { useSearchState, useSearchActions } from "@yext/search-headless-react";
 
@@ -58,7 +57,7 @@ const JobSearch = (): JSX.Element => {
                 />
               </div>
             </div>
-            <VerticalResults<Job>
+            <VerticalResults
               CardComponent={JobCard}
               displayAllOnNoResults={false}
             />
