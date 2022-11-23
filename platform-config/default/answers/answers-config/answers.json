@@ -1,14 +1,12 @@
 {
   "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
-  "$id": "answers",
-  "name": "answers",
+  "$id": "turtlehead",
+  "name": "turtlehead",
   "supportedLocales": [],
   "countryRestrictions": [],
   "verticals": {
     "events": {
-      "entityTypes": [
-        "event"
-      ],
+      "entityTypes": ["event"],
       "name": "Events",
       "searchableFields": {
         "builtin.entityType": {
@@ -22,9 +20,7 @@
       "source": "KNOWLEDGE_MANAGER"
     },
     "faqs": {
-      "entityTypes": [
-        "faq"
-      ],
+      "entityTypes": ["faq"],
       "name": "FAQs",
       "savedSearchId": "121202151",
       "searchableFields": {
@@ -42,9 +38,7 @@
       "source": "KNOWLEDGE_MANAGER"
     },
     "jobs": {
-      "entityTypes": [
-        "job"
-      ],
+      "entityTypes": ["job"],
       "facets": {
         "fields": [
           {
@@ -81,8 +75,7 @@
           "nlpFilter": true
         },
         "builtin.location": {
-          "nlpFilter": true,
-          "staticFilter": true
+          "nlpFilter": true
         },
         "c_jobDepartment": {
           "facet": true,
@@ -109,15 +102,11 @@
     "restaurants": {
       "directAnswers": {
         "fieldValues": {
-          "eligibleFields": [
-            "mainPhone"
-          ],
+          "eligibleFields": ["mainPhone"],
           "predictionMode": "CLASSIFIER"
         }
       },
-      "entityTypes": [
-        "restaurant"
-      ],
+      "entityTypes": ["restaurant"],
       "name": "Restaurants",
       "savedSearchId": "112002255",
       "searchableFields": {
@@ -142,19 +131,11 @@
     "oneWay": [
       {
         "phrase": "nest",
-        "synonyms": [
-          "restaurant"
-        ]
+        "synonyms": ["restaurant"]
       }
     ],
     "synonymSet": [
-      [
-        "location",
-        "restaurant",
-        "food joint",
-        "taco shop",
-        "eatery"
-      ]
+      ["location", "restaurant", "food joint", "taco shop", "eatery"]
     ],
     "normalization": []
   },
@@ -171,16 +152,9 @@
       "Do you sell gift cards?"
     ],
     "verticalPrompts": {
-      "events": [
-        "[[name]]"
-      ],
-      "faqs": [
-        "[[name]]"
-      ],
-      "restaurants": [
-        "Restaurants near me",
-        "Restaurants in [[address.city]]"
-      ]
+      "events": ["[[name]]"],
+      "faqs": ["[[name]]"],
+      "restaurants": ["Restaurants near me", "Restaurants in [[address.city]]"]
     }
   }
 }
