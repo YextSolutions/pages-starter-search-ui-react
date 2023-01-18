@@ -10,7 +10,7 @@ import {
 import "../index.css";
 
 export const getPath: GetPath<TemplateProps> = () => {
-  return "/search";
+  return "search";
 };
 
 export const getHeadConfig: GetHeadConfig<
