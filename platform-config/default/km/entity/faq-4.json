@@ -3,19 +3,41 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "answer": "Yes, all of our Restaurants are open on the weekends! For more information on location hours, search for your closest Turtlehead Taco location.",
-    "c_activeOnAnswers": true,
-    "c_primaryCTA": {
-      "label": "Search for Nearby Restaurants",
-      "link": "http://answers.turtleheadtacos.com",
-      "linkType": "URL"
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Yes, all of our Restaurants are open on the weekends! For more information on location hours, search for your closest Turtlehead Taco location.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
     },
-    "keywords": [
-      "hours"
-    ],
     "name": "Are you open on the weekends?",
     "question": "Are you open on the weekends?"
   },
   "entityType": "faq",
+  "folder": "yext/root",
   "labels": []
 }
