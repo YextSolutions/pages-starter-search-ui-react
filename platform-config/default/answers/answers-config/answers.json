@@ -22,7 +22,6 @@
     "faqs": {
       "entityTypes": ["faq"],
       "name": "FAQs",
-      "savedSearchId": "121202151",
       "searchableFields": {
         "builtin.entityType": {
           "nlpFilter": true
