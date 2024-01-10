@@ -1,0 +1,1 @@
+import{j as e}from"../static/index-_AyFH-Nx.js";import"../static/index-b6fS6yC-.js";const a=()=>"search",o=()=>({title:"Turtlehead Tacos Search",charset:"UTF-8",viewport:"width=device-width, initial-scale=1"}),i=()=>e.jsx(e.Fragment,{children:"Your Code Here!"});export{i as default,o as getHeadConfig,a as getPath};

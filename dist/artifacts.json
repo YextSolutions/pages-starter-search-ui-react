@@ -1,0 +1,31 @@
+{
+  "artifactStructure": {
+    "assets": [
+      {
+        "root": "dist",
+        "pattern": "assets/**/*"
+      },
+      {
+        "root": "dist/public_assets",
+        "pattern": "**/*"
+      }
+    ],
+    "plugins": [
+      {
+        "pluginName": "PagesGenerator",
+        "sourceFiles": [
+          {
+            "root": "dist/plugin",
+            "pattern": "*{.ts,.json}"
+          },
+          {
+            "root": "dist",
+            "pattern": "assets/{server,static,renderer,render,client}/**/*{.js,.css}"
+          }
+        ],
+        "event": "ON_PAGE_GENERATE",
+        "functionName": "PagesGenerator"
+      }
+    ]
+  }
+}
