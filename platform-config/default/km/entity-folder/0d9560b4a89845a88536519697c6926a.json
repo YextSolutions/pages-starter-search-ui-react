@@ -1,6 +1,0 @@
-{
-  "$id": "0d9560b4a89845a88536519697c6926a",
-  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
-  "name": "Restaurant",
-  "parent": "yext/root"
-}

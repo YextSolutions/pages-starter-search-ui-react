@@ -1,9 +1,0 @@
-{
-  "$id": "c_deliveryHours",
-  "$schema": "https://schema.yext.com/config/km/field/v1",
-  "description": "",
-  "displayName": "Delivery Hours",
-  "group": "NONE",
-  "localization": "PRIMARY_ONLY",
-  "typeId": "hours"
-}
